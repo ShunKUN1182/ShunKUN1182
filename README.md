@@ -1,10 +1,9 @@
-## Hi there 👋
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a FrontEnd Engineer.
 - 🌱 I’m currently learning react!
 - 📫 How to reach me: [null)
+- 💬 Ask me about baseball talk!
 <br>
 
 <p align="left">
