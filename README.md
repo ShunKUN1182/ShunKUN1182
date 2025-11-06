@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="[https://github-readme-stats.vercel.app/api?username=ShunKUN1182](https://github-readme-stats.vercel.app/api/top-langs/?username=ShunKUN1182&layout=compact)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunKUN1182&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ShunKUN1182">
 <!--
 **ShunKUN1182/ShunKUN1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
