@@ -1,7 +1,17 @@
 ## Hi there 👋
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunKUN1182&layout=compact&theme=neon&show_icons=true" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShunKUN1182&theme=neon&show_icons=true" height="150px">
+</p>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunKUN1182&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=ShunKUN1182">
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,figma" />
+<br>
+
+## 👓 Learning
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,ts" />
+<br>
 <!--
 **ShunKUN1182/ShunKUN1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
