@@ -1,4 +1,12 @@
 ## Hi there 👋
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+- 🧑‍💻 I'm a FrontEnd Engineer.
+- 🌱 I’m currently learning react!
+- 📫 How to reach me: [null)
+<br>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunKUN1182&layout=compact&theme=graywhite&show_icons=true" height="150px">
   <img src="https://github-readme-stats.vercel.app/api?username=ShunKUN1182&theme=graywhite&show_icons=true" height="150px">
