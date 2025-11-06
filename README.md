@@ -2,7 +2,7 @@
 
 - 🧑‍💻 I'm a FrontEnd Engineer.
 - 🌱 I’m currently learning react!
-- 📫 How to reach me: [null)
+- 📫 How to reach me: [null]
 - 💬 Ask me about baseball talk!
 <br>
 
