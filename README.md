@@ -16,7 +16,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=html,css,js,react,vscode,figma,ps,ai,pr" />
 <br>
 
-## 👓 Learning
+## 🔥 Learning
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=react,next,ts" />
 <br>
 <!--
