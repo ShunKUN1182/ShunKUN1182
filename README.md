@@ -13,7 +13,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=html,css,js,react,vscode,figma,ps,ai,pr" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=html,css,js,react,vscode,figma,ps,ai,pr,ae" />
 <br>
 
 ## 🔥 Learning
