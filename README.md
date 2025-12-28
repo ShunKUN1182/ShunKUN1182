@@ -13,11 +13,11 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=html,css,js,react,vscode,figma,ps,ai,pr,ae" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=html,css,js,ts,react,vscode,figma,ps,ai,pr,ae" />
 <br>
 
 ## 🔥 Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=sass,react,ts,next,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=sass,react,next,docker" />
 <br>
 <!--
 **ShunKUN1182/ShunKUN1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
