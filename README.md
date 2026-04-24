@@ -17,7 +17,7 @@
 <br>
 
 ## 🔥 Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=sass,astro,next,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=sass,astro,docker" />
 <br>
 <!--
 **ShunKUN1182/ShunKUN1182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
